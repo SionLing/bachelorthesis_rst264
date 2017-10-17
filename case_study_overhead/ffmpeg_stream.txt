@@ -1,0 +1,1 @@
+ffmpeg -re -i smooth_30_50.mp4 -vcodec libx264 -f rtp -an rtp://192.168.178.20:554

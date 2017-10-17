@@ -1,0 +1,28 @@
+ffmpeg Befehle zum erstellen der Videos:
+
+0-5 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:00:05 -vcodec libx264 -f mp4 -an bbb_5sec.mp4
+
+0-10 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:00:10 -vcodec libx264 -f mp4 -an bbb_10sec.mp4
+
+0-15 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:00:15 -vcodec libx264 -f mp4 -an bbb_15sec.mp4
+
+0-20 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:00:20 -vcodec libx264 -f mp4 -an bbb_20sec.mp4
+
+0-30 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:00:30 -vcodec libx264 -f mp4 -an bbb_30sec.mp4
+
+0-40 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:00:40 -vcodec libx264 -f mp4 -an bbb_40sec.mp4
+
+0-50 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:00:50 -vcodec libx264 -f mp4 -an bbb_50sec.mp4
+
+0-60 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:01:00 -vcodec libx264 -f mp4 -an bbb_60sec.mp4
+
+0-120 sec:
+ffmpeg -i /Users/nils/Studium/Materialien\ 6.Semester/BachelorArbeit/4strasse/case_studies/case_0/bbb_full.mp4  -ss 00:00:00 -t 00:01:20 -vcodec libx264 -f mp4 -an bbb_120sec.mp4
