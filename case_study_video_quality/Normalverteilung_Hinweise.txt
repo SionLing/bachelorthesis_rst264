@@ -1,0 +1,8 @@
+Normalverteilung hinweise: 
+erwartung: 0,125
+abweichung: 0,025
+
+für max_delay: 0,1969 -> 0,998 der Pakete kommen an -> 0,2% Paketverlust
+für max_delay: 0,1937 -> 0,997 der Pakete kommen an -> 0,3% Paketverlust
+für max_delay: 0,1894 -> 0,995 der Pakete kommen an -> 0,5% Paketverlust
+für max_delay: 0,1832 -> 0,99 der Pakete kommen an -> 1% Paketverlust
